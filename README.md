@@ -11,7 +11,7 @@ I'm an Electronics and Communications Engineer. I learned HTML, CSS by myself an
 
 ## 🧰 Toolbox
 
-[https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png]
+<https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png>
 
 <!---
 busssu/busssu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
