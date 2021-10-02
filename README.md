@@ -22,6 +22,11 @@ I'm an Electronics and Communications Engineer. I learned HTML, CSS by myself an
 ---
 
 ## 💡 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busssu&layout=compact)](https://github.com/busssu/github-readme-stats)
+
+
+
 ![Büşra Biner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=busssu&show_icons=true&theme=radical)
 
 
