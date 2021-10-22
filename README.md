@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @busssu
-- 👀 I’m interested in Frontend Web Development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/busrabiner/)
 
