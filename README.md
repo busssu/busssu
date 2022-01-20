@@ -11,7 +11,7 @@ I'm an Electronics and Communications Engineer. I learned HTML, CSS by myself an
 
 ## Technologies:
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width ="50px" height="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width ="50px" height="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width ="50px" height="50px"/> <img src="	data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDov…uc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" width="50px" height="50px" /> <img src="https://nodejs.org/static/images/logo.svg" width ="50px" height="50px"/> <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width ="50px" height="50px"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width ="50px" height="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width ="50px" height="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width ="50px" height="50px"/> <img src="	https://www.google.com/urlsa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FReact&psig=AOvVaw0Bu2Oc49qiG3gv6AhZ1g3j&ust=1642789944446000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDG3sv7wPUCFQAAAAAdAAAAABAD" width="50px" height="50px" /> <img src="https://nodejs.org/static/images/logo.svg" width ="50px" height="50px"/> <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width ="50px" height="50px"/>
 
 ---
 
